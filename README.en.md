@@ -4,6 +4,12 @@
 
 A Chrome side-panel extension for rediscovering old Xiaohongshu favorites. It randomly presents up to ten items from a locally built collection index, then lets you save text highlights and personal Notes while reading the original post.
 
+<p align="center">
+  <img src="docs/media/collection-atlas-demo.gif" width="440" alt="Collection Atlas Chrome side-panel demo with placeholder collection titles">
+</p>
+
+<p align="center"><sub>Placeholder content only. No personal collection data is shown.</sub></p>
+
 Current version: **0.7.3**  
 Runtime: **Chrome 114+**  
 Interface language: **Simplified Chinese**  

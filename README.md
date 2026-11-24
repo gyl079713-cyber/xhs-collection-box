@@ -4,6 +4,12 @@
 
 一个用于重新遇见小红书旧收藏的 Chrome 侧边栏扩展。它从已建立的收藏索引中，每次随机展示最多十条；打开原笔记后，可以保存正文划线和自己的 Note。
 
+<p align="center">
+  <img src="docs/media/collection-atlas-demo.gif" width="440" alt="收藏观察 Chrome 侧边栏演示，收藏标题使用灰色占位内容">
+</p>
+
+<p align="center"><sub>演示使用占位内容，不包含真实收藏数据。</sub></p>
+
 当前版本：**0.7.3**  
 运行环境：**Chrome 114+**  
 
