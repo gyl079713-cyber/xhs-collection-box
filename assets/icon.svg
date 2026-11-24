@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="打开的收藏盲盒">
+  <rect width="128" height="128" rx="29" fill="#c34d69"/>
+  <path d="M67 15 70 24 79 27 70 30 67 39 64 30 55 27 64 24Z" fill="#fff7f9"/>
+  <path d="M28 65h72v31l-7 8H35l-7-8Z" fill="#fff"/>
+  <path d="M64 65h36v31l-7 8H64Z" fill="#ffe8ee"/>
+  <path d="M26 48 94 38l8 16-68 10Z" fill="#fff"/>
+</svg>

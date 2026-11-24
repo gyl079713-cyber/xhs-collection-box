@@ -1,0 +1,13 @@
+{
+  "name": "xhs-collection-box",
+  "version": "0.7.3",
+  "private": true,
+  "license": "MIT",
+  "description": "A local-first Chrome side panel for rediscovering Xiaohongshu favorites.",
+  "scripts": {
+    "check": "node scripts/validate.mjs && node --check annotation-script.js && node --check content-script.js && node --check probe-main.js && node --check service-worker.js && node --check sidepanel.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
